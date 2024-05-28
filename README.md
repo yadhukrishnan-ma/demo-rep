@@ -4,4 +4,4 @@
 This is demo repository description
 
 
-some more descriptions
+git config -- global user.name" your name"
